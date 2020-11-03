@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tieclimax&label=Profile%20views&color=0e75b6&style=flat" alt="tieclimax" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/tieclimax](https://github.com/tieclimax)
+- 👨‍💻 All of my projects are available at [https://github.com/tieclimax?tab=repositories](https://github.com/tieclimax)
 
 - 💬 Ask me about **react , nodejs , PHP**
 
