@@ -5,9 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/tieclimax](https://github.com/tieclimax)
 
-- 💬 Ask me about **react , nodejs , PHP**
+- 💬 Ask me about **react , NuxtJs , TailwindCSS , NodeJs , NestJs , PHP**
 
-- 📫 How to reach me **Panuwat20025@gmail.com**
+- 📫 How to reach me **panuwat20025@gmail.com**
 
 - ⚡ Fun fact **I love to sing a song and play guitar**
 
